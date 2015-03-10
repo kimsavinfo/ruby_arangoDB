@@ -26,3 +26,5 @@ It will :
 - Execute a simple query : find the document with the label 'lorem'
 
 > ruby main.rb
+
+![Alt text](screenshots/05_queryResult.png?raw=true "Demo")
