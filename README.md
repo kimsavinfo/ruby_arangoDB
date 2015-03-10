@@ -3,6 +3,8 @@
 This project helps you configure your Ruby to connect to ArangoDB.
 It will only use 'ashikawa-core' as the main goal is to stay as simple as possible.
 
+> http://www.rubydoc.info/gems/ashikawa-core/Ashikawa/Core
+
 
 ### Configure ArangoDB
 
